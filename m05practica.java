@@ -17,6 +17,8 @@ public class m05practica {
         boolean esAfirmatiu = true;
         boolean valorsIntroduitsLegals;
 
+
+        System.out.println("Canvi 1");
         System.out.println("""
                  Vols comprar un altre billet?\s
                      ╔══════╗   ╔══════╗  \s

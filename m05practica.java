@@ -1,11 +1,16 @@
 package com.polmauri.method;
 
 public class m05practica {
+
+
     public static void main(String[] args) {
+
+    }
+    public static void mateo(){
+
+        String nom;
         System.out.println("Hola");
-        System.out.println("Canvi pol");
-        System.out.println("Canvi pol 2");
-        System.out.println("Canvi pol 3");
+
 
     }
 
@@ -40,7 +45,6 @@ public class m05practica {
         boolean esAfirmatiu = true;
         boolean valorsIntroduitsLegals;
 
-
         System.out.println("Canvi 1");
         System.out.println("Canvi 2");
         System.out.println("""
@@ -65,6 +69,7 @@ public class m05practica {
             }
         }while (!valorsIntroduitsLegals);
         return esAfirmatiu;
+
     }
 }
 

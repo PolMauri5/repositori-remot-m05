@@ -8,6 +8,6 @@ public class m05practica {
         System.out.println("Buenos dias me llamo mateo");
         System.out.println("diguim el seu nom");
         // llegir nom
-        System.out.println(nom);
+        System.out.println("nom");
     }
 }

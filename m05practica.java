@@ -8,4 +8,24 @@ public class m05practica {
         System.out.println("Canvi pol 3");
 
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    public static void carlaFlores() {
+        System.out.println("Frase de prova");
+        System.out.println("Commit 2");
+        System.out.println("Commit 3");
+    }
 }
+

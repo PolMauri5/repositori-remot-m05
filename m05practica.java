@@ -19,6 +19,7 @@ public class m05practica {
 
 
         System.out.println("Canvi 1");
+        System.out.println("Canvi 2");
         System.out.println("""
                  Vols comprar un altre billet?\s
                      ╔══════╗   ╔══════╗  \s
